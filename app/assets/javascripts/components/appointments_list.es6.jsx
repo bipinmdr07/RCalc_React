@@ -1,5 +1,5 @@
-var AppointmentList = createReactClass({
-  render: function(){
+class AppointmentList extends React.Component{
+  render(){
     return (
       <div>
         {this.props.appointments.map(function(appointment){
@@ -10,4 +10,4 @@ var AppointmentList = createReactClass({
       </div>
     )
   }
-});
+}
