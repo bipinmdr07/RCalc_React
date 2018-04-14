@@ -1,24 +1,3 @@
-# README
+# React Calender
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the web app build using react-rails gem with ruby on rails making use of React js in ruby on rails app. This app is developed by following the tutorial from [Learnetto](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course).
