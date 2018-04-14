@@ -9,7 +9,7 @@ end
 gem 'rails', '~> 5.1.5'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
-gem 'react-rails'
+gem 'react-rails', '~> 2.3.1'
 gem 'haml'
 gem 'jquery-rails'
 # Use Puma as the app server
